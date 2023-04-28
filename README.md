@@ -1,3 +1,6 @@
+![파이리](https://user-images.githubusercontent.com/132030914/235042589-d614c0d7-edb9-4382-8988-1d57a7b90e76.jpg)
+
+
 - 👋 Hi, I’m @YongJae-Park115
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning Machine learning
